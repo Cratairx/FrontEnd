@@ -1,0 +1,52 @@
+body{
+/*background-image: url(/Images/We\ Blame\ the\ lagg.png);*/
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+
+}
+h1{
+    color: red;
+    font-size: 30px;
+
+
+}
+
+.P1{
+    background-color: aliceblue;
+    font-family: "Verdana",sans-serif;
+    font-size: 18px;
+}
+#p2 {
+color: aqua;
+border-style: outset;
+border-width: 5px;
+border-color: yellow;
+border-radius: 10px;
+padding: 5px;
+}
+#p3{
+color: blueviolet;
+}
+#p4{
+background-color: rebeccapurple;
+}
+#Box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+   background-color:  red;
+   margin-bottom: 10px;
+}
+#Box2 {
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+  background-color: yellow;
+}
+img{
+    float: left;
+}
