@@ -1,15 +1,16 @@
-    /* img{
+     img{
      border-radius: 50px;    
      margin-right: 10px;
     
-     }*/
+    
+     }
          .Box1 {
              width: 300px;
              height: 300px;
              border: 1px solid;
              font-size: 40px;
              text-align: center;
-             background-color: tomato;
+             /*background-color: tomato;*/
              overflow: hidden;
              float: left;
              line-height: 0;
@@ -38,4 +39,9 @@
                      text-align: center;
                      color: white;
                      line-height: normal;
+                 }
+
+                 .textunderbild{
+                    text-align: center;
+                    text-decoration-color: red;
                  }
